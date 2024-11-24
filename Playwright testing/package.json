@@ -1,0 +1,19 @@
+{
+  "name": "playwright-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.49.0"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.10",
+    "jest": "^29.7.0"
+  }
+}
